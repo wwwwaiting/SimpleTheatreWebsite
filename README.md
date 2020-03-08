@@ -4,7 +4,7 @@ This is the first assignment for CSC301: Introduction to Software Engineer.
 This app is for actors to check their blocking number based on the actor ID and script ID, and for directors to manage the blocking information.  
 
 #### heroku link
-https://simple-theatre-app.herokuapp.com
+https://simple-theatre-app.herokuapp.com   
 Can be accessed:   
 https://simple-theatre-app.herokuapp.com/example which shows an example of script line.   
 https://simple-theatre-app.herokuapp.com/script/#scriptID 
