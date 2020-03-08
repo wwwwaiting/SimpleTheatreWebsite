@@ -5,6 +5,14 @@ This app is for actors to check their blocking number based on the actor ID and 
 
 #### heroku link
 https://simple-theatre-app.herokuapp.com
+Can be accessed:   
+https://simple-theatre-app.herokuapp.com/example which shows an example of script line.   
+https://simple-theatre-app.herokuapp.com/script/#scriptID 
+  - e.g https://simple-theatre-app.herokuapp.com/script/1 
+  
+Main page:  
+https://simple-theatre-app.herokuapp.com/actor.html   
+https://simple-theatre-app.herokuapp.com/director.html
 
 ### General Introduction
 #### Objective:
