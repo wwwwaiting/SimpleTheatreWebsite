@@ -1,0 +1,24 @@
+{  
+	"script_name":"hamlet1.txt",
+ 	"actors":{  
+	"1":"Hamlet",
+	"2":"Claudius"
+ 	},
+ 	"line":"That's it Claudius, I'm leaving!Fine! Oh..he left already..",
+ 	"part_1":{  
+    	"actor_blocks":{  
+      	"1":5,
+      	"2":2
+    	},
+    	"end_idx":31,
+    	"start_idx":0
+ 	},
+ 	"part_2":{  
+    	"actor_blocks":{  
+      	"1":0,
+       	"2":3
+    	},
+    	"end_idx":58,
+    	"start_idx":32
+ 	}
+}

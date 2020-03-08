@@ -1,0 +1,11 @@
+{  
+	"scriptNum":"1",
+ 	"part_1":{  
+    	"Claudius":2,
+    	"Hamlet":5
+ 	},
+ 	"part_2":{  
+    	"Claudius":3,
+    	"Hamlet":0
+ 	}
+}
